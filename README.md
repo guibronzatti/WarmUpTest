@@ -1,6 +1,6 @@
 # travisci-gcc-arm-test
 
-[![Build Status](https://travis-ci.org/karlding/travisci-gcc-arm-test.svg?branch=master)](https://travis-ci.org/karlding/travisci-gcc-arm-test)
+[![Build Status](https://travis-ci.org/guibronzatti/WarmUpTest.svg?branch=master)](https://travis-ci.org/guibronzatti/WarmUpTest)
 
 Test Travis CI integration with GCC ARM projects using Throw The Switch's [Unity](http://www.throwtheswitch.org/unity/) unit-testing framework for C unit tests.
 
